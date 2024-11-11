@@ -1,3 +1,6 @@
+#This is a program to multiply two matrices in Python.
+
+
 def matrix_multiply(A, B):
     # Get the dimensions of the matrices
     rows_A = len(A)
@@ -20,7 +23,7 @@ def matrix_multiply(A, B):
 
     return result
 
-# Example usage
+# Example usage (Can be changed)
 A = [
     [1, 2, 3],
     [4, 5, 6]
